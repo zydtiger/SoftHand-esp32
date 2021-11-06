@@ -1,0 +1,222 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\cores\\esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\variants\\esp32"
+  },
+  {
+    "Sourcefile": "e:\\Code\\Arduino\\SoftFinger-esp32\\build\\sketch\\SoftFinger-esp32.ino.cpp",
+    "Include": "BLEDevice.h",
+    "Includepath": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src"
+  },
+  {
+    "Sourcefile": "e:\\Code\\Arduino\\SoftFinger-esp32\\build\\sketch\\SoftFinger-esp32.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "e:\\Code\\Arduino\\SoftFinger-esp32\\build\\sketch\\src\\BLE.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "e:\\Code\\Arduino\\SoftFinger-esp32\\build\\sketch\\src\\Hand.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "e:\\Code\\Arduino\\SoftFinger-esp32\\build\\sketch\\src\\Peripherals\\BreathingLED.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "e:\\Code\\Arduino\\SoftFinger-esp32\\build\\sketch\\src\\Peripherals\\Buzzer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "e:\\Code\\Arduino\\SoftFinger-esp32\\build\\sketch\\src\\Peripherals\\LED.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "e:\\Code\\Arduino\\SoftFinger-esp32\\build\\sketch\\src\\SCS\\SCS.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "e:\\Code\\Arduino\\SoftFinger-esp32\\build\\sketch\\src\\SCS\\SCSCL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "e:\\Code\\Arduino\\SoftFinger-esp32\\build\\sketch\\src\\SCS\\SCSerial.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "e:\\Code\\Arduino\\SoftFinger-esp32\\build\\sketch\\src\\SCS\\SMS_STS.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "e:\\Code\\Arduino\\SoftFinger-esp32\\build\\sketch\\src\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "e:\\Code\\Arduino\\SoftFinger-esp32\\build\\sketch\\src\\ServoCtl.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLE2902.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLE2904.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLEAddress.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLEAdvertisedDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLEAdvertising.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLEBeacon.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLECharacteristic.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLECharacteristicMap.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLEClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLEDescriptor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLEDescriptorMap.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLEDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLEEddystoneTLM.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLEEddystoneURL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLEExceptions.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLEHIDDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLERemoteCharacteristic.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLERemoteDescriptor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLERemoteService.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLEScan.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLESecurity.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLEServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLEService.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLEServiceMap.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLEUUID.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLEUtils.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\BLEValue.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\FreeRTOS.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\zyd_t\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BLE\\src\\GeneralUtils.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
